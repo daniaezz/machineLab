@@ -63,8 +63,7 @@ This project is the last part in the theme of the NYUAD 4 Year cycle - The Comme
 ### Draw a block diagram showing very roughly how these components are connected. You don't need to show the circuit or specific wires, just in general what is connected to what.
 
 ![machinelab](https://github.com/daniaezz/machineLab/assets/90758857/3b1fc077-470c-47f6-9b37-0605e862c829)
-<img width="881" alt="Screenshot 2024-02-05 at 1 14 35 PM" src="https://github.com/daniaezz/machineLab/assets/90758857/f3df176f-06fe-4140-9e5d-a7977b2a21b4">
-
+<img width="416" alt="image" src="https://github.com/daniaezz/machineLab/assets/90758857/cd49d27d-e4e1-4678-a6ae-8cc6d0a12399">
 
 ### What tools or equipment or skills will you need?
 
