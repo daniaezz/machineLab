@@ -10,7 +10,7 @@ I really liked Juanma’s idea of a roller coaster/amusement park and I feel lik
 
 
 
-## 4 Projects under the theme: NYU Abu Dhabi 4 year cycle
+## 4 Projects under the theme: NYU Abu Dhabi 4 year cycle (brainstorming with Swostik)
 
 1. Candidate Weekend
 2. Marhaba
