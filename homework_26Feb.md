@@ -2,7 +2,7 @@
 
 ## Progress
 - We **SUCCESSFULLY** 3D printed our tracks 🎉. We also laser cut wheels so that they perfectly fit the track and the motor.
-We now have a model rack and pinion model for our roller coaster. We laid the track with copper stripes and stranded wires
+We now have a rack and pinion model for our roller coaster. We laid the track with copper stripes and stranded wires
 to carry electricity to the car. And we created grooves in the track to help with the friction issue that would occur when trying
 to move the car up a slope. It was a lot of trial and error but it works!! 
 
