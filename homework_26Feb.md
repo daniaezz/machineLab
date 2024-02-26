@@ -1,4 +1,5 @@
 # 🎢 Roller Coaster - Updates
+### Team Members: Dania, Sunny, Swostik
 
 ## Progress
 - We **SUCCESSFULLY** 3D printed our tracks 🎉. We also laser cut wheels so that they perfectly fit the track and the motor.
